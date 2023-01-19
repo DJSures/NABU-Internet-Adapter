@@ -9,7 +9,7 @@ For the time being, report NABU Internet Adapter issues here. Read troubleshooti
 
 - Report your Internet Adapter version in the issue description, or your message will be ignored.
 
-- If your reported Internet Adapter version is not the most recent, your message will be ignored
+- If your Internet Adapter version is not the most recent, your message will be ignored
 
 - If you do not provide enough information about the issue, and steps you have taken to remedy the issue, your message will be ignored
 
