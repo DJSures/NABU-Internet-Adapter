@@ -8,9 +8,11 @@ For the time being, report NABU Internet Adapter issues here. Read troubleshooti
 
 ## Issue Reporting Rules
 
-- Read troubleshooting on https://nabu.ca first.
+- Read troubleshooting first: https://nabu.ca/nabu-internet-adapter-downloads
 
-- Any issues that are assumed to be user error or due to a bad cable will be ignored. 
+- Any issues that are assumed to be user error or due to a bad cable will be ignored. For example, it works in mame but not on your real hardware, due to timeouts or communication errors. For communication errors, fix your cable, or do not use a usb hub.
+
+- If you are complaining that Win 7, Win Vista, Win XP or Windows 3.1 is not supported, your message will be ignored.
 
 - Report your Internet Adapter version in the issue description, or your message will be ignored.
 
