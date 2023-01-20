@@ -4,6 +4,8 @@
 ![image](https://user-images.githubusercontent.com/49293683/213636747-dadcf00d-cb3a-434d-a21b-0e187de901a8.png)
 Experience NABU as intended with the NABU Internet Adapter software - including Homebrew channels, Retro On-Line chat, Cloud CP/M, and more! DJ Sures created the NABU Internet adapter as a software replacement for the Nabu Network Adapter (NA). The NA was a hardware component connected to the Television Coax Cable and NABU PC. It would decode digital information from the analog cable and send it to the Nabu computer. The NABU Internet Adapter is a command-line application that emulates the NABU Network Adapter and Servers, which provide entertainment and family software to the NABU Personal Computers.
 
+Check out my YouTube playlist that documents the story of how I was able to hack the NABU Personal Computer to do what it does now: https://youtube.com/playlist?list=PLNT_tjSHIQ3lGJR_zOqh9gGeHzykR0spq
+
 # Download
 Get NABU Internet Adapter here: https://nabu.ca/nabu-internet-adapter-downloads
 
