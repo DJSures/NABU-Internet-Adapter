@@ -23,3 +23,7 @@ For the time being, report NABU Internet Adapter issues here. Read troubleshooti
 - If you do not provide enough information about the issue, and steps you have attempted to remedy the issue, your message will be ignored
 
 - If you have issues with these rules, your message will be ignored ;)
+
+
+# Disclaimer
+I am doing this project for fun to enjoy the NABU PC and participate in growing a NABU community. I certainly am not NABU technical support and I prioritize conversations about NABU developments and ideas. There is a large community growing around the NABU and many other experts who can help diagnost issues. You can log an issue here, and I will check it to see if there's anything I can fix - but I am not technical support for NABU. Soon as this stops being fun, I will move onto another project; So please respect my time and effort. Happy NABU-ing!
