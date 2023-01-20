@@ -12,7 +12,7 @@ Here's a screenshot from the original main menu that was last broadcasted in 198
 ![image](https://user-images.githubusercontent.com/49293683/213636625-26e79a01-d68e-4ed2-bd36-1f65d651b25f.png)
 
 # Cloud CP/M
-The first CP/M with an entire remote networked filesystem running under my custom NABU BIOS. You can use it from the NABU Channel listings in the Internet Adapter.
+The first CP/M with an entire remote networked filesystem running under my custom NABU BIOS. You can use it from the NABU Channel listings in the Internet Adapter. Read how to use Cloud CP/M, drive contents, and troubleshooting here: https://nabu.ca/cloud-cpm
 ![image](https://user-images.githubusercontent.com/49293683/213637244-34e2feb9-93f9-4134-8cd7-8f9f664f12ae.png)
 
 # Issues
