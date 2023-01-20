@@ -10,6 +10,8 @@ For the time being, report NABU Internet Adapter issues here. Read troubleshooti
 
 - Read troubleshooting first: https://nabu.ca/nabu-internet-adapter-downloads
 
+- If you are having communicaton issues on a Linux OS, that is most likely due to the baudrate being too fast (115,200) for the little 3mhz cpu and "slightly" near the end of band for the standard baudrate of the NABU's TR88. This is a bug with .NET framework and it has been reported, they're working on it. This is documented numerous times on https://nabu.ca. I cannot help you with that. If you try it on Windows, and it works, but doesn't work in Linux, that's the reason. Or, it's your cable.
+
 - Any issues that are assumed to be user error or due to a bad cable will be ignored. For example, it works in mame but not on your real hardware, due to timeouts or communication errors. For communication errors, fix your cable, or do not use a usb hub.
 
 - If you are complaining that Win 7, Win Vista, Win XP or Windows 3.1 is not supported, your message will be ignored.
