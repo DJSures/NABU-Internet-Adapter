@@ -27,3 +27,5 @@ For the time being, report NABU Internet Adapter issues here. Read troubleshooti
 
 # Disclaimer
 I am doing this project for fun to enjoy the NABU PC and participate in growing a NABU community. I certainly am not NABU technical support and I prioritize conversations about NABU developments and ideas. There is a large community growing around the NABU and many other experts who can help diagnost issues. You can log an issue here, and I will check it to see if there's anything I can fix - but I am not technical support for NABU. Soon as this stops being fun, I will move onto another project; So please respect my time and effort. Happy NABU-ing!
+
+If you see me in a chat, or comment on my YouTube channel, try engaging a real conversation with me and not immediately asking me to help you fix something.
