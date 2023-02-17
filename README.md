@@ -21,6 +21,9 @@ The first CP/M with an entire remote networked filesystem running under my custo
 # Issues
 For the time being, report NABU Internet Adapter issues here. Read troubleshooting on https://nabu.ca first.
 
+![image](https://user-images.githubusercontent.com/49293683/219523398-491461a3-eba2-40f3-a260-513bad063e01.png)
+
+
 ## Issue Reporting Rules
 
 - Read troubleshooting first: https://nabu.ca/nabu-internet-adapter-downloads
