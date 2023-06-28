@@ -8,7 +8,7 @@ Experience NABU as intended with the NABU Internet Adapter software - including 
 Check out my YouTube playlist that documents the story of how I was able to hack the NABU Personal Computer to do what it does now: https://youtube.com/playlist?list=PLNT_tjSHIQ3lGJR_zOqh9gGeHzykR0spq
 
 # Download
-Get NABU Internet Adapter here: https://nabu.ca/nabu-internet-adapter-downloads
+Get NABU Internet Adapter here: https://nabu.ca/downloads-nabu-internet-adapter
 
 # Main Menu
 Here's a screenshot from the original main menu that was last broadcasted in 1984. 
@@ -26,13 +26,13 @@ For the time being, report NABU Internet Adapter issues here. Read troubleshooti
 
 ## Issue Reporting Rules
 
-- Read troubleshooting first: https://nabu.ca/nabu-internet-adapter-downloads
+- Read troubleshooting first: https://nabu.ca/downloads-nabu-internet-adapter
 
-- Run the Slide Show test for > 2 hours straight to verify that your cable works. If the slideshow does not crash, your cable is great! If it does crash, check the troubleshooting here (https://nabu.ca/nabu-internet-adapter-downloads)
+- Run the Slide Show test for > 2 hours straight to verify that your cable works. If the slideshow does not crash, your cable is great! If it does crash, check the troubleshooting here (https://nabu.ca/downloads-nabu-internet-adapter)
 
 - If you are having communicaton issues on a Linux OS, that is most likely due to the baudrate being too fast (115,200) for the little 3mhz cpu and "slightly" near the end of band for the standard baudrate of the NABU's TR88. This is a bug with .NET framework and it has been reported, they're working on it. This is documented numerous places on https://nabu.ca. If you try it on Windows, and it works, but doesn't work in Linux, that's the reason. Or, it's your cable.
 
-- Any issues that are assumed to be user error or due to a bad cable will be ignored. For example, it works in mame but not on your real hardware, due to timeouts or communication errors. For communication errors, fix your cable, or do not use a usb hub. Read the trouble-shooting guide at the bottom of this page (https://nabu.ca/nabu-internet-adapter-downloads) because there's great information about how to properly make a cable.
+- Any issues that are assumed to be user error or due to a bad cable will be ignored. For example, it works in mame but not on your real hardware, due to timeouts or communication errors. For communication errors, fix your cable, or do not use a usb hub. Read the trouble-shooting guide at the bottom of this page (https://nabu.ca/downloads-nabu-internet-adapter) because there's great information about how to properly make a cable.
 
 - If you are complaining that Win 7, Win Vista, Win XP or Windows 3.1 is not supported, your message will be ignored lol (install a newer OS, please) (yes serious, I've had ppl demand Windows XP to be supported haha)
 
